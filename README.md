@@ -1,1 +1,1 @@
-# Neural network that determines the classification of irises
+# This project is educational and it won't be used for commercial purposes
